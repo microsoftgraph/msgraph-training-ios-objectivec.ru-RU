@@ -8,11 +8,11 @@
 
 - [Руководство по работе с iOS — руководство по Microsoft Graph](https://docs.microsoft.com/graph/tutorials/ios-objectivec)
 
-## <a name="demos"></a>Демонстрации
+## <a name="completed-sample"></a>Пример завершен
 
-- [01 — создание приложения](demos/01-create-app): завершено [Создание приложения с целевой задачей iOS](https://docs.microsoft.com/graph/tutorials/ios-objectivec?tutorial-step=1)
-- [02 – Add $ AAD – auth](demos/02-add-aad-auth): завершено [Добавление проверки подлинности для Azure AD](https://docs.microsoft.com/graph/tutorials/ios-objectivec?tutorial-step=3)
-- [03 – Add – msgraph](demos/03-add-msgraph): Completed [Получение данных календаря](https://docs.microsoft.com/graph/tutorials/ios-objectivec?tutorial-step=4)
+Если вы только что создали полученный пример, выполнив следующую лабораторию, вы можете найти его здесь.
+
+- [Завершенный проект](demo)
 
 ## <a name="watch-the-module"></a>Просмотр модуля
 
@@ -27,8 +27,9 @@
 
 ## <a name="version-history"></a>Журнал версий
 
-| Версия |        Дата        |                                                               Comments                                                               |
+| Версия |        Дата        |                                                               Комментарии                                                               |
 | ------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| 1.9     | 7 апреля 2020 г.      | Обновленный учебный курс с последними Xcode, MSAL и т. д.                                                                                     |
 | 1.8     | 23 августа 2019 г.    | Пересмотрено обучение по подключению к docs.microsoft.com                                                                                |
 | 1.7     | 18 июня 2019 г.      | Обновлена запись сведений о обновленной записи презентации                                                                                     |
 | 1.6     | 12 мая 2019 г.       | Обновление содержимого 2019Q4                                                                                                               |
